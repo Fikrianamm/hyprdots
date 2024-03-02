@@ -1,0 +1,10 @@
+[Server(53747) threadtalks/] onInitialize
+[Server(53747) threadtalks/] Number of style sheets - 1
+[Server(53747) threadtalks/] setupInitialStylemap
+with 570
+  RegisterResponse 355 371
+Invalid Selector
+Error 709
+  RegisterResponse 355 371
+Invalid Selector
+[Error - 11:35:03 PM] Stopping server timed out

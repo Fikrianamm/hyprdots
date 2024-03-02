@@ -1,0 +1,205 @@
+2024-02-25 06:36:52.772 [info] Started local extension host with pid 1097161.
+2024-02-25 06:36:53.067 [warning] [zobo.php-intellisense]: Cannot register 'php.executablePath'. This property is already registered.
+2024-02-25 06:36:53.450 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:36:53.455 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:36:53.457 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:36:53.461 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:36:53.463 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:36:53.464 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:36:53.465 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:00.726 [error] [Extension Host] (node:1097161) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-25 06:37:03.855 [info] [perf] Render performance baseline is 178ms
+2024-02-25 06:37:04.228 [error] ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:37:08.274 [error] Cannot register two commands with the same id: _workbench.openUserSettingsEditor: Error: Cannot register two commands with the same id: _workbench.openUserSettingsEditor
+    at o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:683:19459)
+    at ge (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2629:36943)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2629:37247)
+    at o.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1972)
+    at o.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2188)
+    at y.updateCurrentProfile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:42885)
+    at o.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:36350)
+    at async o.switchProfile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:35539)
+    at async I.u (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:147:24167)
+    at async I.run (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:147:24091)
+    at async m.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1207:36733)
+2024-02-25 06:37:09.615 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:09.616 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:09.617 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:09.618 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:09.618 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:09.619 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:09.620 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:10.303 [warning] No search provider registered for scheme: file, waiting
+2024-02-25 06:37:11.176 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:11.177 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:11.183 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:11.184 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:11.185 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:11.187 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:11.188 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:37:12.364 [info] Started local extension host with pid 1097753.
+2024-02-25 06:37:16.844 [error] No registered selector for ID: ms-vscode.npm-command
+2024-02-25 06:37:55.942 [error] Cancelled: Canceled
+    at re.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:32466)
+    at async re.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:29361)
+    at async re.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:26345)
+    at async oe.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:12374)
+    at async ge.Ec (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:24452)
+    at async ge.Nc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:27116)
+    at async ge.lc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:14478)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:12777
+2024-02-25 06:38:29.508 [info] Started local extension host with pid 1099279.
+2024-02-25 06:38:31.406 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:38:31.409 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:38:31.412 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:38:31.422 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:38:31.424 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:38:31.425 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:38:31.430 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:38:38.861 [info] [perf] Render performance baseline is 291ms
+2024-02-25 06:40:19.999 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:40:20.000 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:40:20.002 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:40:20.006 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:40:20.007 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:40:20.010 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:40:20.011 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:41:18.369 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:41:18.373 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:41:18.375 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:41:18.378 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:41:18.381 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:41:18.383 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:41:18.384 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:41:58.616 [info] Started local extension host with pid 1102489.
+2024-02-25 06:42:00.516 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:42:00.517 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:42:00.521 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:42:00.524 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:42:00.527 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:42:00.529 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:42:00.531 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:42:15.565 [info] [perf] Render performance baseline is 306ms
+2024-02-25 06:43:24.828 [error] Cannot register two commands with the same id: _workbench.openUserSettingsEditor: Error: Cannot register two commands with the same id: _workbench.openUserSettingsEditor
+    at o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:683:19459)
+    at ge (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2629:36943)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2629:37247)
+    at o.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1972)
+    at o.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2188)
+    at y.updateCurrentProfile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:42885)
+    at o.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:36350)
+2024-02-25 06:43:27.011 [error] Canceled: Canceled
+    at new E (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1576:9503)
+    at m.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:14004)
+    at z.<computed>.V.charCodeAt.z.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:11458)
+    at c.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1576:22132)
+    at P.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1575:55322)
+    at F.Jb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2310:4272)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2310:2424
+    at Array.map (<anonymous>)
+    at F.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2310:2411)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2310:2318
+2024-02-25 06:43:30.513 [warning] [zobo.php-intellisense]: Cannot register 'php.executablePath'. This property is already registered.
+2024-02-25 06:43:30.671 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:30.672 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:30.673 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:30.674 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:30.676 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:30.677 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:30.678 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:31.064 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:31.065 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:31.067 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:31.067 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:31.068 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:31.069 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:31.070 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:43:31.265 [error] Canceled: Canceled
+    at new E (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1576:9503)
+    at m.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:14004)
+    at z.<computed>.V.charCodeAt.z.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1590:11458)
+    at c.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1576:22132)
+    at P.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1575:55322)
+    at F.Jb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2310:4272)
+    at F.rb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2310:2925)
+    at async F.qb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2310:686)
+2024-02-25 06:43:31.840 [warning] No search provider registered for scheme: file, waiting
+2024-02-25 06:43:32.098 [info] Started local extension host with pid 1103970.
+2024-02-25 06:43:41.153 [error] No registered selector for ID: ms-vscode.npm-command
+2024-02-25 06:43:43.612 [error] [Extension Host] (node:1103970) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-25 06:43:46.610 [error] ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:49:35.749 [info] Importing Profile (React): Disabled extension... oderwat.indent-rainbow
+2024-02-25 06:49:35.750 [info] Importing Profile (React): Started installing extensions.
+2024-02-25 06:51:06.266 [info] Importing Profile (React): Finished installing extensions.
+2024-02-25 06:51:06.387 [error] Cannot register two commands with the same id: _workbench.openUserSettingsEditor: Error: Cannot register two commands with the same id: _workbench.openUserSettingsEditor
+    at o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:683:19459)
+    at ge (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2629:36943)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2629:37247)
+    at o.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1972)
+    at o.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2188)
+    at y.updateCurrentProfile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:42885)
+    at o.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:36350)
+    at async o.switchProfile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:35539)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2664:31873
+2024-02-25 06:51:08.805 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:51:08.808 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:51:08.809 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:51:08.810 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:51:08.812 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:51:08.816 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:51:08.818 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-02-25 06:51:11.710 [info] Started local extension host with pid 1111502.
+2024-02-25 06:51:16.957 [error] No registered selector for ID: ms-vscode.npm-command
+2024-02-25 06:52:09.187 [info] Extension host (LocalProcess pid: 1111502) is unresponsive.
+2024-02-25 06:52:09.406 [info] Extension host (LocalProcess pid: 1111502) is responsive.
+2024-02-25 06:52:09.410 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-02-25 06:53:12.867 [error] ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:54:47.077 [info] Started local extension host with pid 1114799.
+2024-02-25 06:54:49.954 [warning] No search provider registered for scheme: file, waiting
+2024-02-25 06:55:02.121 [info] [perf] Render performance baseline is 300ms
+2024-02-25 06:55:51.069 [error] ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 07:02:37.917 [error] Unable to read file '/home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28/exercises/03-baby-steps-in-vim.md' (Error: File not modified since): Error: Unable to read file '/home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28/exercises/03-baby-steps-in-vim.md' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19875)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async f.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42897)
+    at async f.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42654)
+    at async L.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:13459)
+    at async L.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:11906)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:38766
+2024-02-25 07:12:00.371 [error] Unable to read file '/home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28/exercises/04-moving-blazingly-fast-with-the-core-vim-motions.md' (Error: File not modified since): Error: Unable to read file '/home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28/exercises/04-moving-blazingly-fast-with-the-core-vim-motions.md' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19875)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async f.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42897)
+    at async f.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42654)
+    at async L.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:13459)
+    at async L.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:11906)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:38766
+2024-02-25 07:42:06.811 [error] Unable to read file '/home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28/exercises/03-baby-steps-in-vim.md' (Error: File not modified since): Error: Unable to read file '/home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28/exercises/03-baby-steps-in-vim.md' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19875)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async f.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42897)
+    at async f.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42654)
+    at async L.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:13459)
+    at async L.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:11906)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:38766
+2024-02-25 08:13:32.560 [error] Unable to read file '/home/fikri/code/react/threadtalks/src/utils/api.tsx' (Error: File not modified since): Error: Unable to read file '/home/fikri/code/react/threadtalks/src/utils/api.tsx' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19875)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async f.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42897)
+    at async f.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42654)
+    at async L.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:13459)
+    at async L.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:11906)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:38766
+2024-02-25 08:13:40.342 [error] Unable to read file '/home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28/exercises/04-moving-blazingly-fast-with-the-core-vim-motions.md' (Error: File not modified since): Error: Unable to read file '/home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28/exercises/04-moving-blazingly-fast-with-the-core-vim-motions.md' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19875)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async f.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42897)
+    at async f.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42654)
+    at async L.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:13459)
+    at async L.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:11906)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:38766

@@ -1,0 +1,596 @@
+2024-02-25 06:36:54.879 [info] Extension host with pid 1097161 started
+2024-02-25 06:36:54.880 [info] Skipping acquiring lock for /home/fikri/.config/Code/User/workspaceStorage/18465b6531ccd7166476a5bbaa459e52.
+2024-02-25 06:36:55.097 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-25 06:36:55.110 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.130 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.173 [info] ExtensionService#_doActivateExtension IHunte.laravel-blade-wrapper, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.202 [info] ExtensionService#_doActivateExtension illixion.vscode-vibrancy-continued, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.308 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.324 [info] ExtensionService#_doActivateExtension nilobarp.javascript-test-runner, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.350 [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.355 [info] ExtensionService#_doActivateExtension tal7aouy.rainbow-bracket, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.443 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.505 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2024-02-25 06:36:55.727 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-25 06:36:56.777 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-25 06:36:56.932 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-25 06:36:57.510 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2024-02-25 06:36:58.396 [error] Error: command 'wrap.with.if' already exists
+    at s.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173849)
+    at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:20837)
+    at /home/fikri/.vscode/extensions/ihunte.laravel-blade-wrapper-1.0.1/out/wrapper.js:55:62
+    at Array.forEach (<anonymous>)
+    at /home/fikri/.vscode/extensions/ihunte.laravel-blade-wrapper-1.0.1/out/wrapper.js:52:36
+2024-02-25 06:36:59.269 [info] Eager extensions activated
+2024-02-25 06:36:59.431 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:36:59.444 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:36:59.468 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:36:59.508 [info] ExtensionService#_doActivateExtension bierner.color-info, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:36:59.525 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:36:59.538 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:00.492 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:00.509 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:00.676 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:01.044 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:01.065 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:01.099 [info] ExtensionService#_doActivateExtension SeyyedKhandon.firacode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:01.110 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:01.208 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:01.539 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:03.154 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-25 06:37:03.374 [error] Error: Extension dbclient-jdbc not found!
+    at Function.<anonymous> (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:141366:15)
+    at Generator.next (<anonymous>)
+    at /home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:59:25
+    at new Promise (<anonymous>)
+    at N (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:45:22)
+    at Function.upgradeJDBC (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:141362:12)
+    at Nt.initTreeView (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:150271:8)
+    at Nt.init (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:150268:85)
+    at sKt (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:151246:10)
+    at Function.ib (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:13232)
+    at Function.hb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:12946)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:11081
+    at c.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6256)
+    at c.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6219)
+    at c.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:5676)
+2024-02-25 06:37:03.532 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-25 06:37:03.618 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-25 06:37:03.838 [info] ExtensionService#_doActivateExtension numso.prettier-standard-vscode, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-25 06:37:04.085 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-25 06:37:04.142 [error] Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:37:08.243 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-25 06:37:08.303 [error] An error occurred when deactivating the extension 'SeyyedKhandon.firacode':
+2024-02-25 06:37:08.307 [error] TypeError: Cannot read properties of undefined (reading 'extension')
+    at deactivateFiraCode (/home/fikri/.vscode/extensions/seyyedkhandon.firacode-2.2.1/out/util.js:53:27)
+    at Object.deactivate (/home/fikri/.vscode/extensions/seyyedkhandon.firacode-2.2.1/out/extension.js:26:35)
+    at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9679)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+    at Array.map (<anonymous>)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+    at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-25 06:37:08.378 [error] Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:37:11.179 [error] Canceled: Canceled
+    at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+    at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+    at Proxy.T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+    at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+    at d (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/capabilities/capabilities.ts:117:20)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2024-02-25 06:37:12.200 [error] Error: Channel has been closed
+    at s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2490)
+    at Object.appendLine (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2608)
+    at Object.log (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/utils/logger.ts:44:24)
+    at Object.warn (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/utils/logger.ts:64:10)
+    at checkForUpdates (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/binary/binaryStateSingleton.ts:32:14)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:509:9)
+2024-02-25 06:37:13.200 [error] Error: Channel has been closed
+    at s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2490)
+    at Object.appendLine (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2608)
+    at Object.log (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/utils/logger.ts:44:24)
+    at Object.error (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/utils/logger.ts:68:10)
+    at t.default.request (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/binary/Binary.ts:82:14)
+    at async Promise.all (index 29)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7823)
+2024-02-25 06:37:13.201 [info] Extension host with pid 1097161 exiting with code 0
+2024-02-25 06:37:14.375 [info] Extension host with pid 1097753 started
+2024-02-25 06:37:14.375 [info] Skipping acquiring lock for /home/fikri/.config/Code/User/workspaceStorage/18465b6531ccd7166476a5bbaa459e52.
+2024-02-25 06:37:14.473 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-25 06:37:14.544 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-25 06:37:14.592 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-25 06:37:14.666 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-25 06:37:14.678 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onCommand:vscode-html-css.validate'
+2024-02-25 06:37:15.483 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-25 06:37:15.494 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-02-25 06:37:15.576 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-02-25 06:37:15.580 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-02-25 06:37:15.603 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2024-02-25 06:37:15.646 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-02-25 06:37:15.766 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2024-02-25 06:37:15.798 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2024-02-25 06:37:16.157 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-25 06:37:16.425 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-25 06:37:16.539 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-25 06:37:17.491 [info] Eager extensions activated
+2024-02-25 06:37:17.512 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:17.523 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:17.547 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:17.567 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:17.807 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:17.816 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:17.960 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:19.362 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:19.441 [info] ExtensionService#_doActivateExtension LeonardSSH.vscord, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:19.609 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:19.649 [error] TypeError: Cannot read properties of null (reading 'write')
+    at IPCTransport.send (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+    at /home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+    at new Promise (<anonymous>)
+    at IPCTransport.close (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+    at RPCClient.destroy (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+    at login (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at activate (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+    at c.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6256)
+    at c.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6219)
+    at c.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:5676)
+2024-02-25 06:37:19.684 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:37:19.762 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:23.697 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-25 06:38:25.546 [error] Canceled: Canceled
+    at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+    at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+    at Proxy.T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+    at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+    at Object.dispose (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/lookAheadSuggestion.ts:162:21)
+    at c.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+    at c.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+    at c.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+    at c.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+    at forEach (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/autocompleteInstaller.ts:121:7)
+    at Array.forEach (<anonymous>)
+    at uninstallAutocomplete (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/autocompleteInstaller.ts:120:17)
+    at Object.dispose (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/autocompleteInstaller.ts:27:20)
+    at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+    at Array.map (<anonymous>)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+    at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-02-25 06:38:25.550 [error] Error: Channel has been closed
+    at s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2490)
+    at Object.appendLine (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2608)
+    at Object.log (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/utils/logger.ts:44:24)
+    at Object.error (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/utils/logger.ts:68:10)
+    at t.default.request (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/binary/Binary.ts:82:14)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:509:9)
+    at async Promise.all (index 24)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7823)
+2024-02-25 06:38:25.557 [info] Extension host with pid 1097753 exiting with code 0
+2024-02-25 06:38:31.939 [info] Extension host with pid 1099279 started
+2024-02-25 06:38:31.939 [info] Skipping acquiring lock for /home/fikri/.config/Code/User/workspaceStorage/18465b6531ccd7166476a5bbaa459e52.
+2024-02-25 06:38:32.314 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-25 06:38:32.493 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-25 06:38:32.501 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-02-25 06:38:32.577 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-02-25 06:38:32.584 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-02-25 06:38:32.616 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2024-02-25 06:38:32.647 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-02-25 06:38:32.688 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2024-02-25 06:38:32.723 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2024-02-25 06:38:32.820 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-25 06:38:33.223 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-25 06:38:33.361 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-25 06:38:34.468 [info] Eager extensions activated
+2024-02-25 06:38:34.571 [error] TypeError: Cannot read properties of null (reading 'write')
+    at IPCTransport.send (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+    at /home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+    at new Promise (<anonymous>)
+    at IPCTransport.close (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+    at RPCClient.destroy (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+    at login (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at activate (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+    at c.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6256)
+    at c.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6219)
+    at c.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:5676)
+2024-02-25 06:38:35.287 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:35.303 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:35.330 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:35.349 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:35.461 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:35.472 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:35.509 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:36.595 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:36.602 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:36.697 [info] ExtensionService#_doActivateExtension LeonardSSH.vscord, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:36.748 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:36.781 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:38:37.746 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-25 06:38:58.328 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:41:54.673 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-25 06:41:54.736 [error] Canceled: Canceled
+    at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+    at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+    at Proxy.T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+    at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+    at LT (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:43:6988)
+    at /home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:43:15311
+    at er (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:4:1357)
+    at Zn (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:3:6843)
+    at Immediate.<anonymous> (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:3:6721)
+    at processImmediate (node:internal/timers:476:21) setContext undefined
+2024-02-25 06:41:54.770 [warning] Canceled
+2024-02-25 06:41:54.771 [warning] Canceled
+2024-02-25 06:41:54.777 [info] Extension host with pid 1099279 exiting with code 0
+2024-02-25 06:42:00.420 [info] Extension host with pid 1102489 started
+2024-02-25 06:42:00.422 [info] Skipping acquiring lock for /home/fikri/.config/Code/User/workspaceStorage/18465b6531ccd7166476a5bbaa459e52.
+2024-02-25 06:42:01.652 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-25 06:42:01.672 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:42:02.679 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-25 06:42:02.687 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-02-25 06:42:02.849 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-02-25 06:42:02.866 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-02-25 06:42:03.011 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2024-02-25 06:42:03.039 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-02-25 06:42:03.141 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2024-02-25 06:42:03.209 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2024-02-25 06:42:03.368 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-25 06:42:05.287 [error] TypeError: Cannot read properties of null (reading 'write')
+    at IPCTransport.send (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+    at /home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+    at new Promise (<anonymous>)
+    at IPCTransport.close (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+    at RPCClient.destroy (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+    at login (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at activate (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+    at c.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6256)
+    at c.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6219)
+    at c.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:5676)
+2024-02-25 06:42:07.761 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-25 06:42:08.033 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-25 06:42:09.019 [info] Eager extensions activated
+2024-02-25 06:42:09.943 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:09.966 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:10.054 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:10.094 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:10.305 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:10.364 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:10.538 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:11.537 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:11.553 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:11.795 [info] ExtensionService#_doActivateExtension LeonardSSH.vscord, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:11.871 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:11.963 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:42:14.102 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-25 06:43:24.665 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-25 06:43:24.749 [error] Canceled: Canceled
+    at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+    at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+    at Proxy.T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+    at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+    at LT (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:43:6988)
+    at /home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:43:15311
+    at er (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:4:1357)
+    at Zn (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:3:6843)
+    at Immediate.<anonymous> (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:3:6721)
+    at processImmediate (node:internal/timers:476:21) setContext undefined
+2024-02-25 06:43:24.778 [warning] Canceled
+2024-02-25 06:43:24.779 [warning] Canceled
+2024-02-25 06:43:24.801 [info] Extension host with pid 1102489 exiting with code 0
+2024-02-25 06:43:34.106 [info] Extension host with pid 1103970 started
+2024-02-25 06:43:34.106 [info] Skipping acquiring lock for /home/fikri/.config/Code/User/workspaceStorage/18465b6531ccd7166476a5bbaa459e52.
+2024-02-25 06:43:34.651 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-25 06:43:34.679 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:43:34.825 [info] ExtensionService#_doActivateExtension hex-ci.stylelint-plus, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:43:35.052 [info] ExtensionService#_doActivateExtension numso.prettier-standard-vscode, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:43:35.252 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-25 06:43:35.301 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onCommand:vscode-html-css.validate'
+2024-02-25 06:43:35.934 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-25 06:43:35.956 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-02-25 06:43:35.966 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-02-25 06:43:36.080 [info] ExtensionService#_doActivateExtension IHunte.laravel-blade-wrapper, startup: true, activationEvent: '*'
+2024-02-25 06:43:36.096 [info] ExtensionService#_doActivateExtension illixion.vscode-vibrancy-continued, startup: true, activationEvent: '*'
+2024-02-25 06:43:36.359 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2024-02-25 06:43:36.395 [info] ExtensionService#_doActivateExtension nilobarp.javascript-test-runner, startup: true, activationEvent: '*'
+2024-02-25 06:43:36.423 [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: true, activationEvent: '*'
+2024-02-25 06:43:36.429 [info] ExtensionService#_doActivateExtension tal7aouy.rainbow-bracket, startup: true, activationEvent: '*'
+2024-02-25 06:43:36.499 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2024-02-25 06:43:36.575 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2024-02-25 06:43:37.058 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-25 06:43:37.184 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: false, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2024-02-25 06:43:39.091 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-25 06:43:39.374 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-25 06:43:42.091 [info] Eager extensions activated
+2024-02-25 06:43:42.243 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:42.257 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:42.303 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:42.332 [info] ExtensionService#_doActivateExtension bierner.color-info, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:42.346 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:42.355 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:43.613 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:43.706 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:43.851 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:43.881 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:43.915 [info] ExtensionService#_doActivateExtension SeyyedKhandon.firacode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:43.921 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:44.031 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:44.262 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:43:45.884 [error] Error: Extension dbclient-jdbc not found!
+    at Function.<anonymous> (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:141366:15)
+    at Generator.next (<anonymous>)
+    at /home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:59:25
+    at new Promise (<anonymous>)
+    at N (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:45:22)
+    at Function.upgradeJDBC (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:141362:12)
+    at Nt.initTreeView (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:150271:8)
+    at Nt.init (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:150268:85)
+    at sKt (/home/fikri/.vscode/extensions/cweijan.vscode-mysql-client2-7.0.4/out/extension.js:151246:10)
+    at Function.ib (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:13232)
+    at Function.hb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:12946)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:11081
+    at c.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6256)
+    at c.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6219)
+    at c.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:5676)
+2024-02-25 06:43:45.998 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-25 06:43:46.592 [error] Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:44:00.694 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-25 06:46:40.680 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onProfile'
+2024-02-25 06:51:06.311 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-25 06:51:06.425 [error] An error occurred when deactivating the extension 'SeyyedKhandon.firacode':
+2024-02-25 06:51:06.436 [error] TypeError: Cannot read properties of undefined (reading 'extension')
+    at deactivateFiraCode (/home/fikri/.vscode/extensions/seyyedkhandon.firacode-2.2.1/out/util.js:53:27)
+    at Object.deactivate (/home/fikri/.vscode/extensions/seyyedkhandon.firacode-2.2.1/out/extension.js:26:35)
+    at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9679)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+    at Array.map (<anonymous>)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+    at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-25 06:51:08.361 [error] Canceled: Canceled
+    at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+    at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+    at Proxy.T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+    at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+    at Object.dispose (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/lookAheadSuggestion.ts:162:21)
+    at c.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+    at c.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+    at c.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+    at c.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+    at forEach (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/autocompleteInstaller.ts:121:7)
+    at Array.forEach (<anonymous>)
+    at uninstallAutocomplete (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/autocompleteInstaller.ts:120:17)
+    at Object.dispose (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/autocompleteInstaller.ts:27:20)
+    at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+    at Array.map (<anonymous>)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+    at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-02-25 06:51:08.363 [error] Error: Channel has been closed
+    at s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2490)
+    at Object.appendLine (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:2608)
+    at Object.log (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/utils/logger.ts:44:24)
+    at Object.error (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/utils/logger.ts:68:10)
+    at t.default.request (/home/fikri/.vscode/extensions/tabnine.tabnine-vscode-3.69.0/src/binary/Binary.ts:82:14)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:509:9)
+    at async Promise.all (index 32)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7823)
+2024-02-25 06:51:08.375 [error] Error: Stopping the server timed out
+    at /opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:298321
+    at Object.e.deactivate (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:565947)
+    at async Promise.all (index 7)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7823)
+2024-02-25 06:51:08.375 [error] Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:51:08.385 [info] Extension host with pid 1103970 exiting with code 0
+2024-02-25 06:51:13.175 [info] Extension host with pid 1111502 started
+2024-02-25 06:51:13.175 [info] Skipping acquiring lock for /home/fikri/.config/Code/User/workspaceStorage/18465b6531ccd7166476a5bbaa459e52.
+2024-02-25 06:51:13.338 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-25 06:51:13.389 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:51:13.576 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:51:14.779 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-25 06:51:14.831 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onCommand:vscode-html-css.validate'
+2024-02-25 06:51:14.853 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-25 06:51:14.951 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-25 06:51:15.010 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onProfile'
+2024-02-25 06:51:15.377 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-25 06:51:15.390 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-02-25 06:51:15.473 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-02-25 06:51:15.486 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-02-25 06:51:15.536 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2024-02-25 06:51:15.568 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-02-25 06:51:15.610 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2024-02-25 06:51:15.642 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2024-02-25 06:51:15.747 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-25 06:51:16.195 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-25 06:51:16.349 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-25 06:51:17.220 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2024-02-25 06:51:17.957 [error] TypeError: Cannot read properties of null (reading 'write')
+    at IPCTransport.send (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+    at /home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+    at new Promise (<anonymous>)
+    at IPCTransport.close (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+    at RPCClient.destroy (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+    at login (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at activate (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+    at c.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6256)
+    at c.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6219)
+    at c.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:5676)
+2024-02-25 06:51:18.237 [info] Eager extensions activated
+2024-02-25 06:51:18.554 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:18.563 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:18.580 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:18.602 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:18.695 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:18.715 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:18.782 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:20.077 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:20.237 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:51:20.310 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:53:11.610 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:53:12.862 [error] Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:54:43.583 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-25 06:54:43.683 [warning] Canceled
+2024-02-25 06:54:43.694 [warning] Canceled
+2024-02-25 06:54:43.700 [warning] Canceled
+2024-02-25 06:54:43.700 [error] Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:54:43.733 [error] Canceled: Canceled
+    at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+    at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+    at Proxy.T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+    at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+    at LT (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:43:6988)
+    at /home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:43:15311
+    at er (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:4:1357)
+    at Zn (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:3:6843)
+    at Immediate.<anonymous> (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:3:6721)
+    at processImmediate (node:internal/timers:476:21) setContext undefined
+2024-02-25 06:54:43.773 [info] Extension host with pid 1111502 exiting with code 0
+2024-02-25 06:54:49.277 [info] Extension host with pid 1114799 started
+2024-02-25 06:54:49.277 [info] Skipping acquiring lock for /home/fikri/.config/Code/User/workspaceStorage/18465b6531ccd7166476a5bbaa459e52.
+2024-02-25 06:54:50.171 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-25 06:54:50.191 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:54:50.307 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-02-25 06:54:52.302 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-25 06:54:52.322 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-02-25 06:54:52.470 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-02-25 06:54:52.482 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-02-25 06:54:52.515 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2024-02-25 06:54:52.550 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-02-25 06:54:52.608 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2024-02-25 06:54:52.671 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2024-02-25 06:54:52.835 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-25 06:54:54.058 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-25 06:54:54.263 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-25 06:54:54.650 [error] TypeError: Cannot read properties of null (reading 'write')
+    at IPCTransport.send (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+    at /home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+    at new Promise (<anonymous>)
+    at IPCTransport.close (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+    at RPCClient.destroy (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+    at login (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at activate (/home/fikri/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+    at c.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6256)
+    at c.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:6219)
+    at c.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:5676)
+2024-02-25 06:54:55.859 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2024-02-25 06:54:57.337 [info] Eager extensions activated
+2024-02-25 06:54:57.493 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:57.498 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:57.517 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:57.545 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:57.637 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:57.648 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:57.754 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:59.081 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:59.092 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:59.206 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:54:59.247 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:55:00.132 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-25 06:55:00.697 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-25 06:55:49.791 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-02-25 06:55:51.066 [error] Error: ENOENT: no such file or directory, open '/home/fikri/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-02-25 06:56:17.340 [info] ExtensionService#_doActivateExtension vintharas.learn-vim, startup: false, activationEvent: 'onCommand:learn-vim.learnVim'
+2024-02-25 06:56:18.002 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-02-25 06:56:18.060 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-02-25 06:56:20.448 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-02-25 07:14:01.088 [warning] TextEditor is closed/disposed
+2024-02-25 07:14:01.088 [warning] TextEditor is closed/disposed
+2024-02-25 08:12:39.913 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2024-02-25 08:12:39.926 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2024-02-25 08:12:39.933 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2024-02-25 08:12:39.940 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onTaskType:Live Preview'
+2024-02-25 08:12:40.301 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-02-25 08:13:43.518 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-25 08:13:43.713 [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/fikri/.vscode/extensions/vscodevim.vim-1.27.2/out/extension.js:2:675367)
+    at Object.t.deactivate (/home/fikri/.vscode/extensions/vscodevim.vim-1.27.2/out/extension.js:2:213749)
+    at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9679)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+    at Array.map (<anonymous>)
+    at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+    at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-25 08:13:43.748 [error] Canceled: Canceled
+    at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+    at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+    at Proxy.T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+    at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+    at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+    at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+    at LT (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:43:6988)
+    at /home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:43:15311
+    at er (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:4:1357)
+    at Zn (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:3:6843)
+    at Immediate.<anonymous> (/home/fikri/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5/dist/extension.js:3:6721)
+    at processImmediate (node:internal/timers:476:21) setContext undefined
+2024-02-25 08:13:43.773 [info] Extension host with pid 1114799 exiting with code 0

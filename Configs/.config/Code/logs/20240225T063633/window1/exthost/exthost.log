@@ -1,0 +1,26 @@
+2024-02-25 06:36:39.360 [info] Extension host with pid 1096591 started
+2024-02-25 06:36:39.360 [info] Skipping acquiring lock for /home/fikri/.config/Code/User/workspaceStorage/18465b6531ccd7166476a5bbaa459e52.
+2024-02-25 06:36:40.420 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-25 06:36:40.444 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-02-25 06:36:40.467 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-02-25 06:36:40.515 [info] ExtensionService#_doActivateExtension IHunte.laravel-blade-wrapper, startup: true, activationEvent: '*'
+2024-02-25 06:36:40.545 [info] ExtensionService#_doActivateExtension illixion.vscode-vibrancy-continued, startup: true, activationEvent: '*'
+2024-02-25 06:36:40.810 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2024-02-25 06:36:40.840 [info] ExtensionService#_doActivateExtension nilobarp.javascript-test-runner, startup: true, activationEvent: '*'
+2024-02-25 06:36:40.922 [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: true, activationEvent: '*'
+2024-02-25 06:36:40.933 [info] ExtensionService#_doActivateExtension tal7aouy.rainbow-bracket, startup: true, activationEvent: '*'
+2024-02-25 06:36:41.084 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2024-02-25 06:36:41.164 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2024-02-25 06:36:41.493 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-25 06:36:42.427 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-25 06:36:42.625 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-25 06:36:43.649 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2024-02-25 06:36:44.712 [error] Error: command 'wrap.with.if' already exists
+    at s.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173849)
+    at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:20837)
+    at /home/fikri/.vscode/extensions/ihunte.laravel-blade-wrapper-1.0.1/out/wrapper.js:55:62
+    at Array.forEach (<anonymous>)
+    at /home/fikri/.vscode/extensions/ihunte.laravel-blade-wrapper-1.0.1/out/wrapper.js:52:36
+2024-02-25 06:36:44.838 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-25 06:36:44.880 [info] Extension host with pid 1096591 exiting with code 0
+2024-02-25 06:36:44.881 [info] Eager extensions activated

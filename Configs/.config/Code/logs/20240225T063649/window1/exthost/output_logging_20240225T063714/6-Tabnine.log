@@ -1,0 +1,16 @@
+06:37:20 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/fikri/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.99.0/x86_64-unknown-linux-musl/TabNine args: --print-version 
+
+06:37:20 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/fikri/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.99.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.86.2 pluginVersion=3.69.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Tokyo Night vscode-theme-kind=Dark vscode-machine-id=3264a982056f6524ec88bc83dd91756ef7b1b822b3bb9e7f7cfceb599a810eaa vscode-is-new-app-install=false vscode-session-id=c50b858e-1154-4f35-902b-c3a4abff4a421708817811043 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+06:37:20 GMT+0700 (Western Indonesia Time) [DEBUG]: capabilities resolved immediately 
+
+06:37:22 GMT+0700 (Western Indonesia Time) [ERROR]: validating /home/fikri/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.99.0/x86_64-unknown-linux-musl/TabNine timeout 
+
+06:37:23 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:37:24 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+06:37:53 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:38:23 GMT+0700 (Western Indonesia Time) [WARN]: assistant is closing 
+

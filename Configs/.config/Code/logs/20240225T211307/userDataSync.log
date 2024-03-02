@@ -1,0 +1,621 @@
+2024-02-25 21:13:12.414 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-02-25 21:13:12.414 [info] Auto Sync is disabled.
+2024-02-25 21:24:01.127 [info] Sync started.
+2024-02-25 21:24:01.221 [info] Did reset the local sync state.
+2024-02-25 21:24:01.262 [info] Settings: Last sync resource does not exist locally.
+2024-02-25 21:24:01.532 [info] Keybindings: Last sync resource does not exist locally.
+2024-02-25 21:24:01.621 [info] Snippets: Last sync resource does not exist locally.
+2024-02-25 21:24:01.701 [info] Tasks: Last sync resource does not exist locally.
+2024-02-25 21:24:01.762 [info] GlobalState: Last sync resource does not exist locally.
+2024-02-25 21:24:01.919 [info] Extensions: Last sync resource does not exist locally.
+2024-02-25 21:24:02.452 [info] Profiles: Last sync resource does not exist locally.
+2024-02-25 21:24:02.523 [error] Profile with id:5452a854 and name: myprofile does not exist locally to sync.
+2024-02-25 21:24:03.293 [info] Settings: Updated remote settings
+2024-02-25 21:24:03.300 [info] Settings: Updated last synchronized settings
+2024-02-25 21:24:03.306 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:24:03.312 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:24:03.315 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:24:04.678 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,cpp.1.lastSessionDate,cpp.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,colorThemeData,workbench.welcomePage.walkthroughMetadata,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2024-02-25 21:24:04.684 [info] GlobalState: Updated last synchronized ui state
+2024-02-25 21:24:04.689 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:24:05.571 [info] Profiles: Updated remote profiles. Added: ["React"]. Removed: ["myprofile"].
+2024-02-25 21:24:20.579 [info] Profiles: Updated last synchronized profiles.
+2024-02-25 21:24:20.678 [info] Syncing profile. React
+2024-02-25 21:24:20.683 [info] Settings (React): Migrating last sync user data. Resource does not exist.
+2024-02-25 21:24:20.684 [info] Settings (React): Last sync data state does not exist.
+2024-02-25 21:24:21.554 [info] Settings (React): Updated remote settings
+2024-02-25 21:24:21.564 [info] Settings (React): Updated last synchronized settings
+2024-02-25 21:24:21.571 [info] Keybindings (React): Migrating last sync user data. Resource does not exist.
+2024-02-25 21:24:21.571 [info] Keybindings (React): Last sync data state does not exist.
+2024-02-25 21:24:22.968 [info] Keybindings (React): Updated remote keybindings
+2024-02-25 21:24:22.976 [info] Keybindings (React): Updated last synchronized keybindings
+2024-02-25 21:24:22.981 [info] Snippets (React): Migrating last sync user data. Resource does not exist.
+2024-02-25 21:24:22.982 [info] Snippets (React): Last sync data state does not exist.
+2024-02-25 21:24:24.256 [info] Snippets (React): Updated remote snippets
+2024-02-25 21:24:24.262 [info] Snippets (React): Updated last synchronized snippets
+2024-02-25 21:24:24.270 [info] Tasks (React): Migrating last sync user data. Resource does not exist.
+2024-02-25 21:24:24.271 [info] Tasks (React): Last sync data state does not exist.
+2024-02-25 21:24:24.337 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:24:24.346 [info] Tasks (React): Updated last synchronized tasks
+2024-02-25 21:24:24.352 [info] GlobalState (React): Migrating last sync user data. Resource does not exist.
+2024-02-25 21:24:24.353 [info] GlobalState (React): Last sync data state does not exist.
+2024-02-25 21:24:25.810 [info] GlobalState (React): Updated remote ui state. Added: workbench.panel.markers.hidden,workbench.panel.output.hidden,terminal.hidden,workbench.explorer.views.state.hidden,workbench.scm.views.state.hidden,workbench.view.search.state.hidden,workbench.activity.pinnedViewlets2,workbench.panel.pinnedPanels,workbench.panel.repl.hidden,workbench.view.debug.state.hidden,colorThemeData,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount,~remote.forwardedPortsContainer.hidden,workbench.telemetryOptOutShown,memento/gettingStartedService,workbench.statusbar.hidden,themeUpdatedNotificationShown,nps/lastSessionDate,nps/sessionCount,workbench.welcomePage.hiddenCategories,workbench.view.extensions.state.hidden,workbench.panel.alignment,ces/skipSurvey,fileBasedRecommendations/promptedRecommendations,workbench.view.extension.test.state.hidden,workbench.welcomePage.walkthroughMetadata,workbench.view.extension.jupyter-variables.state.hidden,nps/isCandidate,nps/skipVersion,commandPalette.mru.cache,commandPalette.mru.counter,javascript.1.editedCount,javascript.1.editedDate,workbench.view.extension.jupyter.state.hidden,expandSuggestionDocs,memento/workbench.editor.keybindings,terminal.integrated.showTerminalConfigPrompt,javascript.1.isCandidate,javascript.1.skipVersion,snippets.usageTimestamps,workbench.view.extension.custom-activitybar.state.hidden,workbench.view.extension.codegpt.state.hidden,java.2.editedCount,java.2.editedDate,workbench.view.sync.state.hidden,views.customizations,workbench.view.extension.github-cweijan-mysql.state.hidden,workbench.view.extension.github-cweijan-nosql.state.hidden,workbench.view.extension.thunder-client.state.hidden,java.2.isCandidate,java.2.skipVersion,tabs-list-width-horizontal,workbench.view.extension.wallaby.state.hidden,workbench.view.extension.learn-vim-container.state.hidden,no-updates-running-as-admin,github-Fikrianamm,extensionTips/promptedExecutableTips,terminalConfigHelper/launchRecommendationsIgnore,userDataProfiles.state.hidden,Comments.hidden,workbench.view.extension.tabnine.state.hidden,tabs-list-width-vertical.
+2024-02-25 21:24:25.818 [info] GlobalState (React): Updated last synchronized ui state
+2024-02-25 21:24:25.826 [info] Extensions (React): Migrating last sync user data. Resource does not exist.
+2024-02-25 21:24:25.827 [info] Extensions (React): Last sync data state does not exist.
+2024-02-25 21:24:27.026 [info] Extensions (React): Updated remote extensions. Added: ["vscode.bat","vscode.clojure","vscode.coffeescript","vscode.configuration-editing","vscode.cpp","vscode.csharp","vscode.css","vscode.css-language-features","vscode.dart","vscode.debug-auto-launch","vscode.debug-server-ready","vscode.diff","vscode.docker","vscode.emmet","vscode.extension-editing","vscode.fsharp","vscode.git","vscode.git-base","vscode.github","vscode.github-authentication","vscode.go","vscode.groovy","vscode.grunt","vscode.gulp","vscode.handlebars","vscode.hlsl","vscode.html","vscode.html-language-features","vscode.ini","vscode.ipynb","vscode.jake","vscode.java","vscode.javascript","vscode.json","vscode.json-language-features","vscode.julia","vscode.latex","vscode.less","vscode.log","vscode.lua","vscode.make","vscode.markdown","vscode.markdown-language-features","vscode.markdown-math","vscode.media-preview","vscode.merge-conflict","vscode.microsoft-authentication","ms-vscode.js-debug","ms-vscode.js-debug-companion","ms-vscode.vscode-js-profile-table","vscode.builtin-notebook-renderers","vscode.npm","vscode.objective-c","vscode.perl","vscode.php","vscode.php-language-features","vscode.powershell","vscode.pug","vscode.python","vscode.r","vscode.razor","vscode.references-view","vscode.restructuredtext","vscode.ruby","vscode.rust","vscode.scss","vscode.search-result","vscode.shaderlab","vscode.shellscript","vscode.simple-browser","vscode.sql","vscode.swift","vscode.theme-abyss","vscode.theme-defaults","vscode.theme-kimbie-dark","vscode.theme-monokai","vscode.theme-monokai-dimmed","vscode.theme-quietlight","vscode.theme-red","vscode.vscode-theme-seti","vscode.theme-solarized-dark","vscode.theme-solarized-light","vscode.theme-tomorrow-night-blue","vscode.tunnel-forwarding","vscode.typescript","vscode.typescript-language-features","vscode.vb","vscode.xml","vscode.yaml","aaron-bond.better-comments","bradlc.vscode-tailwindcss","catppuccin.catppuccin-vsc","christian-kohler.path-intellisense","csstools.postcss","dbaeumer.vscode-eslint","dsznajder.es7-react-js-snippets","ecmel.vscode-html-css","esbenp.prettier-vscode","formulahendry.auto-close-tag","formulahendry.auto-complete-tag","formulahendry.auto-rename-tag","formulahendry.vscode-mysql","icrawl.discord-vscode","kisstkondoros.vscode-gutter-preview","ms-vscode.live-server","oderwat.indent-rainbow","pkief.material-icon-theme","pranaygp.vscode-css-peek","teabyii.ayu","usernamehw.errorlens","vincaslt.highlight-matching-tag","wakatime.vscode-wakatime","wix.vscode-import-cost"].
+2024-02-25 21:24:27.031 [info] Extensions (React): Updated last synchronized extensions.
+2024-02-25 21:24:27.036 [info] Sync done. Took 25910ms
+2024-02-25 21:24:27.042 [info] Auto Sync: Triggered by Interval
+2024-02-25 21:24:27.043 [info] Sync started.
+2024-02-25 21:24:27.182 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:24:27.196 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:24:27.215 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:24:27.239 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:24:27.263 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:24:27.790 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:24:27.801 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:24:27.806 [info] Syncing profile. React
+2024-02-25 21:24:27.832 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:24:27.889 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:24:27.904 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:24:27.915 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:24:27.974 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:24:28.234 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:24:28.237 [info] Sync done. Took 1193ms
+2024-02-25 21:27:13.412 [info] Auto Sync: Triggered by Activity
+2024-02-25 21:27:13.413 [info] Sync started.
+2024-02-25 21:27:14.686 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:27:14.710 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:27:14.728 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:27:14.739 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:27:14.755 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:27:15.301 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:27:15.311 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:27:15.320 [info] Syncing profile. React
+2024-02-25 21:27:15.349 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:27:15.376 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:27:15.399 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:27:15.416 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:27:15.495 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:27:15.898 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:27:15.901 [info] Sync done. Took 2489ms
+2024-02-25 21:27:31.051 [info] Auto Sync: Triggered by Activity
+2024-02-25 21:27:31.052 [info] Sync started.
+2024-02-25 21:27:31.116 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:27:31.126 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:27:31.151 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:27:31.167 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:27:31.196 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:27:31.727 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:27:31.741 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:27:31.746 [info] Syncing profile. React
+2024-02-25 21:27:31.771 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:27:31.793 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:27:31.823 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:27:31.837 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:27:33.001 [info] GlobalState (React): Updated remote ui state. Updated: workbench.explorer.views.state.hidden.
+2024-02-25 21:27:33.008 [info] GlobalState (React): Updated last synchronized ui state
+2024-02-25 21:27:33.302 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:27:33.304 [info] Sync done. Took 2254ms
+2024-02-25 21:27:33.597 [info] Auto Sync: Triggered by Activity
+2024-02-25 21:27:33.598 [info] Sync started.
+2024-02-25 21:27:34.068 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:27:34.083 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:27:34.111 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:27:34.127 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:27:34.146 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:27:34.523 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:27:34.527 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:27:34.531 [info] Syncing profile. React
+2024-02-25 21:27:34.552 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:27:34.578 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:27:34.594 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:27:34.608 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:27:34.660 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:27:35.053 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:27:35.058 [info] Sync done. Took 1459ms
+2024-02-25 21:28:45.195 [info] Auto Sync: Triggered by Activity
+2024-02-25 21:28:45.199 [info] Sync started.
+2024-02-25 21:28:45.289 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:28:45.296 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:28:45.315 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:28:45.332 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:28:45.351 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:28:45.969 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:28:45.975 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:28:45.984 [info] Syncing profile. React
+2024-02-25 21:28:46.021 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:28:46.069 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:28:46.091 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:28:46.100 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:28:46.215 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:28:46.792 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:28:46.795 [info] Sync done. Took 1601ms
+2024-02-25 21:29:07.717 [info] Auto Sync: Triggered by Activity
+2024-02-25 21:29:07.718 [info] Sync started.
+2024-02-25 21:29:07.800 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:29:07.811 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:29:07.825 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:29:07.833 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:29:07.847 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:29:08.361 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:29:08.367 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:29:08.372 [info] Syncing profile. React
+2024-02-25 21:29:08.401 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:29:08.430 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:29:08.453 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:29:08.473 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:29:08.527 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:29:09.034 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:29:09.036 [info] Sync done. Took 1320ms
+2024-02-25 21:29:24.191 [info] Auto Sync: Triggered by Activity
+2024-02-25 21:29:24.192 [info] Sync started.
+2024-02-25 21:29:24.293 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:29:24.302 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:29:24.322 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:29:24.335 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:29:24.361 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:29:24.755 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:29:24.759 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:29:24.762 [info] Syncing profile. React
+2024-02-25 21:29:24.778 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:29:24.794 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:29:24.810 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:29:24.823 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:29:24.878 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:29:25.150 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:29:25.152 [info] Sync done. Took 962ms
+2024-02-25 21:29:49.501 [info] Auto Sync: Triggered by Activity
+2024-02-25 21:29:49.502 [info] Sync started.
+2024-02-25 21:29:49.598 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:29:49.607 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:29:49.620 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:29:49.629 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:29:49.652 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:29:50.081 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:29:50.086 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:29:50.091 [info] Syncing profile. React
+2024-02-25 21:29:50.111 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:29:50.127 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:29:50.140 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:29:50.149 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:29:50.207 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:29:50.490 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:29:50.493 [info] Sync done. Took 992ms
+2024-02-25 21:34:50.500 [info] Auto Sync: Triggered by Interval
+2024-02-25 21:34:50.501 [info] Sync started.
+2024-02-25 21:34:52.849 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:34:52.862 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:34:52.877 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:34:52.890 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:34:52.909 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:34:53.326 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:34:53.330 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:34:53.333 [info] Syncing profile. React
+2024-02-25 21:34:53.356 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:34:53.369 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:34:53.380 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:34:53.388 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:34:53.449 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:34:53.692 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:34:53.694 [info] Sync done. Took 3194ms
+2024-02-25 21:39:53.741 [info] Auto Sync: Triggered by Interval
+2024-02-25 21:39:53.741 [info] Sync started.
+2024-02-25 21:39:54.628 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:39:54.640 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:39:54.653 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:39:54.662 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:39:54.680 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:39:55.162 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:39:55.167 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:39:55.172 [info] Syncing profile. React
+2024-02-25 21:39:55.192 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:39:55.206 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:39:55.217 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:39:55.225 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:39:55.273 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:39:55.551 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:39:55.554 [info] Sync done. Took 1813ms
+2024-02-25 21:44:55.614 [info] Auto Sync: Triggered by Interval
+2024-02-25 21:44:55.614 [info] Sync started.
+2024-02-25 21:44:56.829 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:44:56.843 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:44:56.858 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:44:56.870 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:44:56.885 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:44:57.340 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:44:57.356 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:44:57.360 [info] Syncing profile. React
+2024-02-25 21:44:57.387 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:44:57.404 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:44:57.423 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:44:57.436 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:44:57.486 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:44:57.764 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:44:57.779 [info] Sync done. Took 2161ms
+2024-02-25 21:49:57.827 [info] Auto Sync: Triggered by Interval
+2024-02-25 21:49:57.827 [info] Sync started.
+2024-02-25 21:49:59.353 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:49:59.362 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:49:59.373 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:49:59.381 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:49:59.394 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:49:59.815 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:49:59.819 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:49:59.823 [info] Syncing profile. React
+2024-02-25 21:49:59.840 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:49:59.854 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:49:59.867 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:49:59.874 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:49:59.933 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:50:00.218 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:50:00.219 [info] Sync done. Took 2393ms
+2024-02-25 21:55:00.265 [info] Auto Sync: Triggered by Interval
+2024-02-25 21:55:00.266 [info] Sync started.
+2024-02-25 21:55:01.729 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 21:55:01.739 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 21:55:01.757 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 21:55:01.772 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 21:55:01.788 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 21:55:02.210 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 21:55:02.214 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 21:55:02.218 [info] Syncing profile. React
+2024-02-25 21:55:02.235 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 21:55:02.253 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 21:55:02.266 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 21:55:02.275 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 21:55:02.324 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 21:55:02.591 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 21:55:02.593 [info] Sync done. Took 2328ms
+2024-02-25 22:00:02.638 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:00:02.639 [info] Sync started.
+2024-02-25 22:00:04.982 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:00:04.993 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:00:05.015 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:00:05.028 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:00:05.047 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:00:05.409 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:00:05.412 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:00:05.416 [info] Syncing profile. React
+2024-02-25 22:00:05.430 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:00:05.446 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:00:05.459 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:00:05.471 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:00:05.523 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:00:05.778 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:00:05.784 [info] Sync done. Took 3146ms
+2024-02-25 22:05:05.816 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:05:05.817 [info] Sync started.
+2024-02-25 22:05:07.208 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:05:07.217 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:05:07.232 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:05:07.244 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:05:07.269 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:05:07.648 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:05:07.653 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:05:07.658 [info] Syncing profile. React
+2024-02-25 22:05:07.683 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:05:07.710 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:05:07.733 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:05:07.741 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:05:07.805 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:05:08.084 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:05:08.086 [info] Sync done. Took 2272ms
+2024-02-25 22:10:08.138 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:10:08.139 [info] Sync started.
+2024-02-25 22:10:09.867 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:10:09.878 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:10:09.897 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:10:09.911 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:10:09.932 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:10:10.293 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:10:10.297 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:10:10.301 [info] Syncing profile. React
+2024-02-25 22:10:10.325 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:10:10.341 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:10:10.355 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:10:10.363 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:10:10.417 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:10:10.690 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:10:10.692 [info] Sync done. Took 2553ms
+2024-02-25 22:15:11.556 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:15:11.556 [info] Sync started.
+2024-02-25 22:15:13.209 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:15:13.237 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:15:13.264 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:15:13.280 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:15:13.308 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:15:13.848 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:15:13.859 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:15:13.876 [info] Syncing profile. React
+2024-02-25 22:15:13.914 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:15:13.939 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:15:13.958 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:15:13.973 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:15:14.038 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:15:14.373 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:15:14.379 [info] Sync done. Took 2821ms
+2024-02-25 22:20:14.443 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:20:14.444 [info] Sync started.
+2024-02-25 22:20:16.268 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:20:16.279 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:20:16.297 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:20:16.309 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:20:16.333 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:20:16.757 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:20:16.761 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:20:16.765 [info] Syncing profile. React
+2024-02-25 22:20:16.783 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:20:16.813 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:20:16.824 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:20:16.831 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:20:16.878 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:20:17.129 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:20:17.131 [info] Sync done. Took 2688ms
+2024-02-25 22:25:17.135 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:25:17.136 [info] Sync started.
+2024-02-25 22:25:19.412 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:25:19.429 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:25:19.454 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:25:19.469 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:25:19.495 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:25:20.135 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:25:20.151 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:25:20.168 [info] Syncing profile. React
+2024-02-25 22:25:20.252 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:25:20.279 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:25:20.301 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:25:20.315 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:25:20.384 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:25:20.853 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:25:20.869 [info] Sync done. Took 3731ms
+2024-02-25 22:30:20.492 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:30:20.493 [info] Sync started.
+2024-02-25 22:30:21.946 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:30:21.958 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:30:21.974 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:30:21.982 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:30:21.996 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:30:22.368 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:30:22.376 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:30:22.380 [info] Syncing profile. React
+2024-02-25 22:30:22.400 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:30:22.427 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:30:22.444 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:30:22.457 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:30:22.519 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:30:22.829 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:30:22.831 [info] Sync done. Took 2340ms
+2024-02-25 22:35:22.420 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:35:22.421 [info] Sync started.
+2024-02-25 22:35:24.339 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:35:24.360 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:35:24.385 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:35:24.403 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:35:24.432 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:35:25.251 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:35:25.268 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:35:25.284 [info] Syncing profile. React
+2024-02-25 22:35:25.325 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:35:25.369 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:35:25.399 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:35:25.417 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:35:25.503 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:35:25.963 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:35:25.965 [info] Sync done. Took 3541ms
+2024-02-25 22:40:27.157 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:40:27.157 [info] Sync started.
+2024-02-25 22:40:36.621 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:40:36.632 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:40:36.649 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:40:36.660 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:40:36.677 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:40:37.104 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:40:37.109 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:40:37.114 [info] Syncing profile. React
+2024-02-25 22:40:37.134 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:40:37.158 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:40:37.189 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:40:37.201 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:40:37.263 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:40:37.580 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:40:37.583 [info] Sync done. Took 10426ms
+2024-02-25 22:45:37.603 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:45:37.604 [info] Sync started.
+2024-02-25 22:45:52.282 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:45:52.293 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:45:52.309 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:45:52.319 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:45:52.340 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:45:52.845 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:45:52.848 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:45:52.852 [info] Syncing profile. React
+2024-02-25 22:45:52.876 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:45:52.894 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:45:52.915 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:45:52.932 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:45:52.996 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:45:53.322 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:45:53.325 [info] Sync done. Took 15722ms
+2024-02-25 22:50:53.360 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:50:53.360 [info] Sync started.
+2024-02-25 22:51:20.840 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:51:20.853 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:51:20.870 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:51:20.883 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:51:20.908 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:51:21.448 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:51:21.465 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:51:21.475 [info] Syncing profile. React
+2024-02-25 22:51:21.560 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:51:21.586 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:51:21.605 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:51:21.621 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:51:21.690 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:51:22.188 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:51:22.195 [info] Sync done. Took 28833ms
+2024-02-25 22:56:22.197 [info] Auto Sync: Triggered by Interval
+2024-02-25 22:56:22.197 [info] Sync started.
+2024-02-25 22:56:23.767 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 22:56:23.777 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 22:56:23.794 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 22:56:23.806 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 22:56:23.824 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 22:56:24.377 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 22:56:24.390 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 22:56:24.400 [info] Syncing profile. React
+2024-02-25 22:56:24.432 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 22:56:24.451 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 22:56:24.467 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 22:56:24.475 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 22:56:24.536 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 22:56:24.851 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 22:56:24.853 [info] Sync done. Took 2657ms
+2024-02-25 23:01:25.346 [info] Auto Sync: Triggered by Interval
+2024-02-25 23:01:25.347 [info] Sync started.
+2024-02-25 23:01:27.057 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:01:27.074 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:01:27.091 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:01:27.107 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:01:27.129 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:01:27.587 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:01:27.590 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:01:27.596 [info] Syncing profile. React
+2024-02-25 23:01:27.615 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 23:01:27.635 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 23:01:27.657 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 23:01:27.671 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 23:01:27.729 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 23:01:28.032 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 23:01:28.034 [info] Sync done. Took 2690ms
+2024-02-25 23:06:28.044 [info] Auto Sync: Triggered by Interval
+2024-02-25 23:06:28.045 [info] Sync started.
+2024-02-25 23:06:35.897 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:06:35.909 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:06:35.926 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:06:35.945 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:06:35.967 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:06:36.624 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:06:36.634 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:06:36.640 [info] Syncing profile. React
+2024-02-25 23:06:36.672 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 23:06:36.698 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 23:06:36.718 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 23:06:36.733 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 23:06:36.798 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 23:06:37.156 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 23:06:37.160 [info] Sync done. Took 9115ms
+2024-02-25 23:11:37.175 [info] Auto Sync: Triggered by Interval
+2024-02-25 23:11:37.175 [info] Sync started.
+2024-02-25 23:11:42.611 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:11:42.624 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:11:42.640 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:11:42.652 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:11:42.681 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:11:43.178 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:11:43.183 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:11:43.188 [info] Syncing profile. React
+2024-02-25 23:11:43.213 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 23:11:43.231 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 23:11:43.246 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 23:11:43.256 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 23:11:43.315 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 23:11:43.591 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 23:11:43.598 [info] Sync done. Took 6423ms
+2024-02-25 23:16:43.621 [info] Auto Sync: Triggered by Interval
+2024-02-25 23:16:43.622 [info] Sync started.
+2024-02-25 23:16:49.844 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:16:49.855 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:16:49.870 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:16:49.882 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:16:49.901 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:16:50.329 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:16:50.333 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:16:50.340 [info] Syncing profile. React
+2024-02-25 23:16:50.357 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 23:16:50.375 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 23:16:50.394 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 23:16:50.405 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 23:16:50.468 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 23:16:50.775 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 23:16:50.777 [info] Sync done. Took 7157ms
+2024-02-25 23:21:50.808 [info] Auto Sync: Triggered by Interval
+2024-02-25 23:21:50.809 [info] Sync started.
+2024-02-25 23:21:51.344 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:21:51.354 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:21:51.373 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:21:51.384 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:21:51.406 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:21:51.786 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:21:51.790 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:21:51.795 [info] Syncing profile. React
+2024-02-25 23:21:51.812 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 23:21:51.826 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 23:21:51.836 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 23:21:51.844 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 23:21:51.894 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 23:21:52.136 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 23:21:52.137 [info] Sync done. Took 1330ms
+2024-02-25 23:26:52.153 [info] Auto Sync: Triggered by Interval
+2024-02-25 23:26:52.154 [info] Sync started.
+2024-02-25 23:26:52.612 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:26:52.626 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:26:52.639 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:26:52.647 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:26:52.667 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:26:53.047 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:26:53.050 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:26:53.054 [info] Syncing profile. React
+2024-02-25 23:26:53.071 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 23:26:53.083 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 23:26:53.095 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 23:26:53.105 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 23:26:53.164 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 23:26:53.430 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 23:26:53.431 [info] Sync done. Took 1279ms
+2024-02-25 23:31:53.443 [info] Auto Sync: Triggered by Interval
+2024-02-25 23:31:53.444 [info] Sync started.
+2024-02-25 23:31:53.882 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:31:53.890 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:31:53.908 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:31:53.923 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:31:53.940 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:31:54.326 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:31:54.330 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:31:54.334 [info] Syncing profile. React
+2024-02-25 23:31:54.358 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 23:31:54.372 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 23:31:54.384 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 23:31:54.393 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 23:31:54.463 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 23:31:54.761 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 23:31:54.763 [info] Sync done. Took 1320ms
+2024-02-25 23:34:57.130 [info] Auto Sync: Triggered by Activity
+2024-02-25 23:34:57.131 [info] Sync started.
+2024-02-25 23:34:57.882 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:34:57.897 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:34:57.915 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:34:57.926 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:34:57.945 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:34:58.360 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:34:58.360 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:34:58.366 [info] Syncing profile. React
+2024-02-25 23:34:58.384 [info] Settings (React): No changes found during synchronizing settings.
+2024-02-25 23:34:58.400 [info] Keybindings (React): No changes found during synchronizing keybindings.
+2024-02-25 23:34:58.414 [info] Snippets (React): No changes found during synchronizing snippets.
+2024-02-25 23:34:58.423 [info] Tasks (React): No changes found during synchronizing tasks.
+2024-02-25 23:34:58.483 [info] GlobalState (React): No changes found during synchronizing ui state.
+2024-02-25 23:34:58.824 [info] Extensions (React): No changes found during synchronizing extensions.
+2024-02-25 23:34:58.825 [info] Sync done. Took 1696ms
+2024-02-25 23:35:02.017 [info] Auto Sync: Triggered by Activity
+2024-02-25 23:35:02.018 [info] Sync started.
+2024-02-25 23:35:02.459 [info] Settings: No changes found during synchronizing settings.
+2024-02-25 23:35:02.468 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-25 23:35:02.481 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-25 23:35:02.490 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-25 23:35:02.504 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-25 23:35:02.965 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-25 23:35:02.972 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-25 23:35:02.977 [info] Syncing profile. React
+2024-02-25 23:35:02.996 [info] Settings (React): No changes found during synchronizing settings.

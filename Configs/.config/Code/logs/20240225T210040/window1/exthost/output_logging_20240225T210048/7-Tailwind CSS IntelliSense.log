@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/fikri/code/react/threadtalks","configPath":"/home/fikri/code/react/threadtalks/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/fikri/code/react/threadtalks/tailwind.config.js","priority":0},{"pattern":"/home/fikri/code/react/threadtalks/**","priority":3}]}]
+[Global] Adding watch patterns: /home/fikri/code/react/threadtalks/tailwind.config.js, /home/fikri/code/react/threadtalks
+[tailwind.config.js] Initializing...
+[tailwind.config.js] Loaded Tailwind CSS config file: /home/fikri/code/react/threadtalks/tailwind.config.js
+[tailwind.config.js] Loaded postcss v8.4.35: /home/fikri/code/react/threadtalks/node_modules/postcss
+[tailwind.config.js] Loaded tailwindcss v3.4.1: /home/fikri/code/react/threadtalks/node_modules/tailwindcss
+[tailwind.config.js] Building...

@@ -1,0 +1,6 @@
+[Info  - 6:42:12 AM] ESLint server is starting.
+[Info  - 6:42:14 AM] ESLint server running in node v18.17.1
+[Info  - 6:42:15 AM] ESLint server is running.
+[Info  - 6:42:19 AM] ESLint library loaded from: /home/fikri/code/react/threadtalks/node_modules/eslint/lib/api.js
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/jsx-eslint/eslint-plugin-react#configuration .
+[Info  - 6:43:24 AM] ESLint server stopped.

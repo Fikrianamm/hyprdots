@@ -1,0 +1,229 @@
+2024-02-25 06:37:00.424 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-25 06:38:13.728 [info] Uninstalling extension from the profile: tabnine.tabnine-vscode@3.69.0 vscode-userdata:/home/fikri/.config/Code/User/profiles/5452a854/extensions.json
+2024-02-25 06:38:20.354 [info] Successfully uninstalled extension from the profile tabnine.tabnine-vscode@3.69.0 vscode-userdata:/home/fikri/.config/Code/User/profiles/5452a854/extensions.json
+2024-02-25 06:38:38.180 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-25 06:40:18.135 [info] Uninstalling extension from the profile: vscjava.vscode-java-test@0.40.1 vscode-userdata:/home/fikri/.config/Code/User/profiles/5452a854/extensions.json
+2024-02-25 06:40:19.876 [info] Successfully uninstalled extension from the profile vscjava.vscode-java-test@0.40.1 vscode-userdata:/home/fikri/.config/Code/User/profiles/5452a854/extensions.json
+2024-02-25 06:40:56.883 [info] Uninstalling extension from the profile: abusaidm.html-snippets@0.2.1 vscode-userdata:/home/fikri/.config/Code/User/profiles/5452a854/extensions.json
+2024-02-25 06:40:57.162 [info] Marked extension as uninstalled abusaidm.html-snippets-0.2.1
+2024-02-25 06:40:57.557 [info] Successfully uninstalled extension from the profile abusaidm.html-snippets@0.2.1 vscode-userdata:/home/fikri/.config/Code/User/profiles/5452a854/extensions.json
+2024-02-25 06:41:13.908 [info] Getting Manifest... pkief.material-icon-theme
+2024-02-25 06:41:14.012 [info] Installing extension: pkief.material-icon-theme
+2024-02-25 06:41:17.714 [info] Uninstalling extension from the profile: vscjava.vscode-java-debug@0.56.0 vscode-userdata:/home/fikri/.config/Code/User/profiles/5452a854/extensions.json
+2024-02-25 06:41:18.190 [info] Successfully uninstalled extension from the profile vscjava.vscode-java-debug@0.56.0 vscode-userdata:/home/fikri/.config/Code/User/profiles/5452a854/extensions.json
+2024-02-25 06:41:21.334 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-icon-theme
+2024-02-25 06:41:24.341 [info] Extracted extension to file:///home/fikri/.vscode/extensions/pkief.material-icon-theme-4.34.0: pkief.material-icon-theme
+2024-02-25 06:41:24.369 [info] Renamed to /home/fikri/.vscode/extensions/pkief.material-icon-theme-4.34.0
+2024-02-25 06:41:24.393 [info] Extracting extension completed. pkief.material-icon-theme
+2024-02-25 06:41:24.423 [info] Extension installed successfully: pkief.material-icon-theme
+2024-02-25 06:42:12.543 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-25 06:49:39.814 [info] Getting Manifest... christian-kohler.path-intellisense
+2024-02-25 06:49:39.814 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-02-25 06:49:39.815 [info] Getting Manifest... kisstkondoros.vscode-gutter-preview
+2024-02-25 06:49:39.815 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2024-02-25 06:49:39.815 [info] Getting Manifest... wakatime.vscode-wakatime
+2024-02-25 06:49:39.816 [info] Getting Manifest... wix.vscode-import-cost
+2024-02-25 06:49:39.816 [info] Getting Manifest... oderwat.indent-rainbow
+2024-02-25 06:49:39.816 [info] Getting Manifest... ecmel.vscode-html-css
+2024-02-25 06:49:39.817 [info] Getting Manifest... teabyii.ayu
+2024-02-25 06:49:39.817 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-02-25 06:49:39.817 [info] Getting Manifest... formulahendry.auto-complete-tag
+2024-02-25 06:49:39.818 [info] Getting Manifest... formulahendry.auto-rename-tag
+2024-02-25 06:49:39.818 [info] Getting Manifest... formulahendry.vscode-mysql
+2024-02-25 06:49:39.819 [info] Getting Manifest... vincaslt.highlight-matching-tag
+2024-02-25 06:49:39.819 [info] Getting Manifest... aaron-bond.better-comments
+2024-02-25 06:49:39.820 [info] Getting Manifest... esbenp.prettier-vscode
+2024-02-25 06:49:39.820 [info] Getting Manifest... usernamehw.errorlens
+2024-02-25 06:49:39.820 [info] Getting Manifest... pkief.material-icon-theme
+2024-02-25 06:49:39.821 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-25 06:49:39.821 [info] Getting Manifest... icrawl.discord-vscode
+2024-02-25 06:49:39.822 [info] Getting Manifest... ms-vscode.live-server
+2024-02-25 06:49:39.823 [info] Getting Manifest... pranaygp.vscode-css-peek
+2024-02-25 06:49:39.823 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2024-02-25 06:49:39.824 [info] Getting Manifest... csstools.postcss
+2024-02-25 06:49:39.825 [info] Getting Manifest... abusaidm.html-snippets
+2024-02-25 06:49:40.095 [info] Installing extension: christian-kohler.path-intellisense
+2024-02-25 06:49:40.095 [info] Installing the extension without checking dependencies and pack christian-kohler.path-intellisense
+2024-02-25 06:49:40.096 [info] Installing extension: catppuccin.catppuccin-vsc
+2024-02-25 06:49:40.096 [info] Installing the extension without checking dependencies and pack catppuccin.catppuccin-vsc
+2024-02-25 06:49:40.096 [info] Installing extension: kisstkondoros.vscode-gutter-preview
+2024-02-25 06:49:40.097 [info] Installing the extension without checking dependencies and pack kisstkondoros.vscode-gutter-preview
+2024-02-25 06:49:40.097 [info] Installing extension: dsznajder.es7-react-js-snippets
+2024-02-25 06:49:40.098 [info] Installing the extension without checking dependencies and pack dsznajder.es7-react-js-snippets
+2024-02-25 06:49:40.098 [info] Installing extension: wakatime.vscode-wakatime
+2024-02-25 06:49:40.099 [info] Installing the extension without checking dependencies and pack wakatime.vscode-wakatime
+2024-02-25 06:49:40.099 [info] Installing extension: wix.vscode-import-cost
+2024-02-25 06:49:40.099 [info] Installing the extension without checking dependencies and pack wix.vscode-import-cost
+2024-02-25 06:49:40.100 [info] Installing extension: oderwat.indent-rainbow
+2024-02-25 06:49:40.100 [info] Installing the extension without checking dependencies and pack oderwat.indent-rainbow
+2024-02-25 06:49:40.100 [info] Installing extension: ecmel.vscode-html-css
+2024-02-25 06:49:40.101 [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+2024-02-25 06:49:40.101 [info] Installing extension: teabyii.ayu
+2024-02-25 06:49:40.101 [info] Installing the extension without checking dependencies and pack teabyii.ayu
+2024-02-25 06:49:40.102 [info] Installing extension: formulahendry.auto-close-tag
+2024-02-25 06:49:40.102 [info] Installing the extension without checking dependencies and pack formulahendry.auto-close-tag
+2024-02-25 06:49:40.103 [info] Installing extension: formulahendry.auto-complete-tag
+2024-02-25 06:49:40.104 [info] Installing the extension without checking dependencies and pack formulahendry.auto-complete-tag
+2024-02-25 06:49:40.104 [info] Installing extension: formulahendry.auto-rename-tag
+2024-02-25 06:49:40.105 [info] Installing the extension without checking dependencies and pack formulahendry.auto-rename-tag
+2024-02-25 06:49:40.106 [info] Installing extension: formulahendry.vscode-mysql
+2024-02-25 06:49:40.107 [info] Installing the extension without checking dependencies and pack formulahendry.vscode-mysql
+2024-02-25 06:49:40.107 [info] Installing extension: vincaslt.highlight-matching-tag
+2024-02-25 06:49:40.108 [info] Installing the extension without checking dependencies and pack vincaslt.highlight-matching-tag
+2024-02-25 06:49:40.109 [info] Installing extension: aaron-bond.better-comments
+2024-02-25 06:49:40.109 [info] Installing the extension without checking dependencies and pack aaron-bond.better-comments
+2024-02-25 06:49:40.109 [info] Installing extension: esbenp.prettier-vscode
+2024-02-25 06:49:40.110 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2024-02-25 06:49:40.110 [info] Installing extension: usernamehw.errorlens
+2024-02-25 06:49:40.111 [info] Installing the extension without checking dependencies and pack usernamehw.errorlens
+2024-02-25 06:49:40.111 [info] Installing extension: pkief.material-icon-theme
+2024-02-25 06:49:40.112 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2024-02-25 06:49:40.112 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-25 06:49:40.112 [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+2024-02-25 06:49:40.113 [info] Installing extension: icrawl.discord-vscode
+2024-02-25 06:49:40.113 [info] Installing the extension without checking dependencies and pack icrawl.discord-vscode
+2024-02-25 06:49:40.114 [info] Installing extension: ms-vscode.live-server
+2024-02-25 06:49:40.114 [info] Installing the extension without checking dependencies and pack ms-vscode.live-server
+2024-02-25 06:49:40.114 [info] Installing extension: pranaygp.vscode-css-peek
+2024-02-25 06:49:40.115 [info] Installing the extension without checking dependencies and pack pranaygp.vscode-css-peek
+2024-02-25 06:49:40.115 [info] Installing extension: bradlc.vscode-tailwindcss
+2024-02-25 06:49:40.115 [info] Installing the extension without checking dependencies and pack bradlc.vscode-tailwindcss
+2024-02-25 06:49:40.116 [info] Installing extension: csstools.postcss
+2024-02-25 06:49:40.116 [info] Installing the extension without checking dependencies and pack csstools.postcss
+2024-02-25 06:49:40.117 [info] Installing extension: abusaidm.html-snippets
+2024-02-25 06:49:40.117 [info] Installing the extension without checking dependencies and pack abusaidm.html-snippets
+2024-02-25 06:49:44.478 [warning] Extension signature verification failed with error 'UnknownError': christian-kohler.path-intellisense
+2024-02-25 06:49:44.724 [warning] Extension signature verification failed with error 'UnknownError': dsznajder.es7-react-js-snippets
+2024-02-25 06:49:44.844 [warning] Extension signature verification failed with error 'UnknownError': wakatime.vscode-wakatime
+2024-02-25 06:49:44.952 [warning] Extension signature verification failed with error 'UnknownError': oderwat.indent-rainbow
+2024-02-25 06:49:45.079 [warning] Extension signature verification failed with error 'UnknownError': teabyii.ayu
+2024-02-25 06:49:45.268 [info] Extracting extension completed. christian-kohler.path-intellisense
+2024-02-25 06:49:45.393 [info] Extracting extension completed. dsznajder.es7-react-js-snippets
+2024-02-25 06:49:45.405 [info] Extension installed successfully: christian-kohler.path-intellisense
+2024-02-25 06:49:45.508 [info] Extracting extension completed. wakatime.vscode-wakatime
+2024-02-25 06:49:45.516 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-icon-theme
+2024-02-25 06:49:45.520 [warning] Extension signature verification failed with error 'UnknownError': dbaeumer.vscode-eslint
+2024-02-25 06:49:45.526 [warning] Extension signature verification failed with error 'UnknownError': icrawl.discord-vscode
+2024-02-25 06:49:45.567 [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+2024-02-25 06:49:45.620 [info] Extracting extension completed. teabyii.ayu
+2024-02-25 06:49:45.628 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.live-server
+2024-02-25 06:49:45.638 [warning] Extension signature verification failed with error 'UnknownError': bradlc.vscode-tailwindcss
+2024-02-25 06:49:45.708 [info] Extension installed successfully: wakatime.vscode-wakatime
+2024-02-25 06:49:45.717 [warning] Extension signature verification failed with error 'UnknownError': abusaidm.html-snippets
+2024-02-25 06:49:45.761 [info] Extension installed successfully: teabyii.ayu
+2024-02-25 06:49:45.780 [info] Extracting extension completed. pkief.material-icon-theme
+2024-02-25 06:49:45.785 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2024-02-25 06:49:45.798 [info] Removed the extension from uninstalled list: abusaidm.html-snippets
+2024-02-25 06:49:45.807 [info] Extracting extension completed. icrawl.discord-vscode
+2024-02-25 06:49:45.863 [info] Extension installed successfully: pkief.material-icon-theme
+2024-02-25 06:49:46.043 [info] Extracting extension completed. ms-vscode.live-server
+2024-02-25 06:49:46.058 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2024-02-25 06:49:46.061 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2024-02-25 06:49:46.162 [info] Extension installed successfully: icrawl.discord-vscode
+2024-02-25 06:49:46.224 [info] Extension installed successfully: ms-vscode.live-server
+2024-02-25 06:49:46.259 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2024-02-25 06:49:46.285 [info] Extension installed successfully: abusaidm.html-snippets
+2024-02-25 06:49:46.959 [warning] Extension signature verification failed with error 'UnknownError': csstools.postcss
+2024-02-25 06:49:47.031 [info] Extracting extension completed. csstools.postcss
+2024-02-25 06:49:47.134 [info] Extension installed successfully: csstools.postcss
+2024-02-25 06:49:47.209 [warning] Extension signature verification failed with error 'UnknownError': ecmel.vscode-html-css
+2024-02-25 06:49:47.221 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.auto-close-tag
+2024-02-25 06:49:47.225 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.vscode-mysql
+2024-02-25 06:49:47.311 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.auto-complete-tag
+2024-02-25 06:49:47.326 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.auto-rename-tag
+2024-02-25 06:49:47.343 [info] Extracting extension completed. ecmel.vscode-html-css
+2024-02-25 06:49:47.356 [info] Extracting extension completed. formulahendry.auto-close-tag
+2024-02-25 06:49:47.361 [info] Extracting extension completed. formulahendry.vscode-mysql
+2024-02-25 06:49:47.375 [info] Extension installed successfully: ecmel.vscode-html-css
+2024-02-25 06:49:47.377 [info] Extracting extension completed. formulahendry.auto-complete-tag
+2024-02-25 06:49:47.391 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2024-02-25 06:49:47.413 [info] Extension installed successfully: formulahendry.auto-close-tag
+2024-02-25 06:49:47.458 [info] Extension installed successfully: formulahendry.vscode-mysql
+2024-02-25 06:49:47.513 [info] Extension installed successfully: formulahendry.auto-complete-tag
+2024-02-25 06:49:47.587 [warning] Extension signature verification failed with error 'UnknownError': usernamehw.errorlens
+2024-02-25 06:49:47.604 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2024-02-25 06:49:47.634 [info] Extracting extension completed. usernamehw.errorlens
+2024-02-25 06:49:47.672 [info] Extension installed successfully: usernamehw.errorlens
+2024-02-25 06:49:47.805 [warning] Extension signature verification failed with error 'UnknownError': kisstkondoros.vscode-gutter-preview
+2024-02-25 06:49:47.826 [info] Extracting extension completed. kisstkondoros.vscode-gutter-preview
+2024-02-25 06:49:47.863 [info] Extension installed successfully: kisstkondoros.vscode-gutter-preview
+2024-02-25 06:49:48.046 [warning] Extension signature verification failed with error 'UnknownError': esbenp.prettier-vscode
+2024-02-25 06:49:48.078 [info] Extracting extension completed. esbenp.prettier-vscode
+2024-02-25 06:49:48.124 [info] Extension installed successfully: esbenp.prettier-vscode
+2024-02-25 06:49:48.645 [warning] Extension signature verification failed with error 'UnknownError': catppuccin.catppuccin-vsc
+2024-02-25 06:49:48.673 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2024-02-25 06:49:48.704 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2024-02-25 06:49:49.391 [warning] Extension signature verification failed with error 'UnknownError': vincaslt.highlight-matching-tag
+2024-02-25 06:49:49.426 [info] Extracting extension completed. vincaslt.highlight-matching-tag
+2024-02-25 06:49:49.451 [info] Extension installed successfully: vincaslt.highlight-matching-tag
+2024-02-25 06:49:49.844 [warning] Extension signature verification failed with error 'UnknownError': aaron-bond.better-comments
+2024-02-25 06:49:49.874 [info] Extracting extension completed. aaron-bond.better-comments
+2024-02-25 06:49:49.907 [info] Extension installed successfully: aaron-bond.better-comments
+2024-02-25 06:49:51.837 [info] Extracted extension to file:///home/fikri/.vscode/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+2024-02-25 06:49:51.851 [info] Renamed to /home/fikri/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2024-02-25 06:49:51.856 [info] Extracting extension completed. oderwat.indent-rainbow
+2024-02-25 06:49:51.874 [info] Extension installed successfully: oderwat.indent-rainbow
+2024-02-25 06:51:04.342 [warning] Extension signature verification failed with error 'UnknownError': pranaygp.vscode-css-peek
+2024-02-25 06:51:04.350 [warning] Extension signature verification failed with error 'UnknownError': wix.vscode-import-cost
+2024-02-25 06:51:04.372 [info] Extracting extension completed. pranaygp.vscode-css-peek
+2024-02-25 06:51:04.401 [info] Extension installed successfully: pranaygp.vscode-css-peek
+2024-02-25 06:51:06.110 [info] Extracted extension to file:///home/fikri/.vscode/extensions/wix.vscode-import-cost-3.3.0: wix.vscode-import-cost
+2024-02-25 06:51:06.117 [info] Renamed to /home/fikri/.vscode/extensions/wix.vscode-import-cost-3.3.0
+2024-02-25 06:51:06.123 [info] Extracting extension completed. wix.vscode-import-cost
+2024-02-25 06:51:06.152 [info] Extension installed successfully: wix.vscode-import-cost
+2024-02-25 06:51:39.600 [info] Uninstalling extension from the profile: abusaidm.html-snippets@0.2.1 vscode-userdata:/home/fikri/.config/Code/User/profiles/-50b3a62e/extensions.json
+2024-02-25 06:51:39.698 [info] Marked extension as uninstalled abusaidm.html-snippets-0.2.1
+2024-02-25 06:51:41.594 [info] Successfully uninstalled extension from the profile abusaidm.html-snippets@0.2.1 vscode-userdata:/home/fikri/.config/Code/User/profiles/-50b3a62e/extensions.json
+2024-02-25 06:53:06.703 [info] Getting Manifest... vscodevim.vim
+2024-02-25 06:53:06.730 [info] Installing extension: vscodevim.vim
+2024-02-25 06:53:10.760 [warning] Extension signature verification failed with error 'UnknownError': vscodevim.vim
+2024-02-25 06:53:10.781 [info] Extracting extension completed. vscodevim.vim
+2024-02-25 06:53:10.813 [info] Extension installed successfully: vscodevim.vim
+2024-02-25 06:53:22.457 [info] Getting Manifest... vintharas.learn-vim
+2024-02-25 06:53:22.480 [info] Installing extension: vintharas.learn-vim
+2024-02-25 06:53:24.115 [warning] Extension signature verification failed with error 'UnknownError': vintharas.learn-vim
+2024-02-25 06:53:24.347 [info] Extracted extension to file:///home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28: vintharas.learn-vim
+2024-02-25 06:53:24.357 [info] Renamed to /home/fikri/.vscode/extensions/vintharas.learn-vim-0.0.28
+2024-02-25 06:53:24.363 [info] Extracting extension completed. vintharas.learn-vim
+2024-02-25 06:53:24.386 [info] Extension installed successfully: vintharas.learn-vim
+2024-02-25 06:54:59.633 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)

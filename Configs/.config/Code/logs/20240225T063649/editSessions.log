@@ -1,0 +1,8 @@
+2024-02-25 06:37:00.752 [info] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2024-02-25 06:38:38.296 [info] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2024-02-25 06:42:12.637 [info] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2024-02-25 06:54:59.676 [info] Resuming cloud changes, reason: cloud changes enabled...
+2024-02-25 06:54:59.678 [info] Checking for pending cloud changes...
+2024-02-25 06:54:59.678 [info] Searching for existing authentication session with ID 90a4f359d4f3237d
+2024-02-25 06:55:02.262 [info] Found existing authentication session with ID 90a4f359d4f3237d
+2024-02-25 06:55:03.648 [info] Aborting resuming edit session as no edit session content is available to be applied

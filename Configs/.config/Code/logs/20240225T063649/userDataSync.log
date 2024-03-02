@@ -1,0 +1,9 @@
+2024-02-25 06:36:53.436 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-02-25 06:36:53.436 [info] Auto Sync is disabled.
+2024-02-25 06:37:03.471 [info] Deleting non existing profile from backup /home/fikri/.config/Code/User/sync/extensions
+2024-02-25 06:37:04.538 [info] Deleting non existing profile from backup /home/fikri/.config/Code/User/sync/globalState
+2024-02-25 06:37:06.183 [info] Deleting non existing profile from backup /home/fikri/.config/Code/User/sync/keybindings
+2024-02-25 06:37:06.879 [info] Deleting non existing profile from backup /home/fikri/.config/Code/User/sync/profiles
+2024-02-25 06:37:07.381 [info] Deleting non existing profile from backup /home/fikri/.config/Code/User/sync/settings
+2024-02-25 06:37:07.678 [info] Deleting non existing profile from backup /home/fikri/.config/Code/User/sync/snippets
+2024-02-25 06:37:07.683 [info] Deleting non existing profile from backup /home/fikri/.config/Code/User/sync/tasks

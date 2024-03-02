@@ -1,0 +1,42 @@
+06:43:46 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/fikri/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.99.0/x86_64-unknown-linux-musl/TabNine args: --print-version 
+
+06:43:46 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/fikri/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.99.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.86.2 pluginVersion=3.69.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Catppuccin Mocha vscode-theme-kind=Dark vscode-machine-id=3264a982056f6524ec88bc83dd91756ef7b1b822b3bb9e7f7cfceb599a810eaa vscode-is-new-app-install=false vscode-session-id=7e28dacf-f29a-4cbe-aa11-3bcd3326c46e1708818117278 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+06:43:46 GMT+0700 (Western Indonesia Time) [DEBUG]: capabilities resolved immediately 
+
+06:43:48 GMT+0700 (Western Indonesia Time) [ERROR]: validating /home/fikri/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.99.0/x86_64-unknown-linux-musl/TabNine timeout 
+
+06:43:49 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:43:50 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+06:44:19 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:44:49 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:45:19 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:45:49 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:46:19 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:46:49 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:47:19 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:47:49 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:48:19 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:48:49 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:49:19 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:49:49 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:50:19 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:50:49 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project threadtalks: ["/home/fikri/code/react/threadtalks"] 
+
+06:51:06 GMT+0700 (Western Indonesia Time) [WARN]: assistant is closing 
+
